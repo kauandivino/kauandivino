@@ -123,7 +123,7 @@ Hi! I'm Kauan Divino, a bachelor in Artificial Intelligence from UFG and a resea
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=kauandivino&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&custom_title=GitHub_Statistics" 
   />
@@ -131,7 +131,7 @@ Hi! I'm Kauan Divino, a bachelor in Artificial Intelligence from UFG and a resea
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="150" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauandivino&theme=tokyonight&layout=compact&custom_title=Languages&langs_count=9" 
   />
 
